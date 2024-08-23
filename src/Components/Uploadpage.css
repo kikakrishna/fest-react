@@ -1,0 +1,43 @@
+.wholebackground {
+    background-color: orange;
+
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: auto;
+
+}
+
+body {
+    background-color: orange;
+    font-family: 'Inter', sans-serif !important;
+}
+
+.GRN-content {
+    background-color: #fff;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+.GRN-content h5 {
+
+    margin-bottom: 10px;
+}
+
+.GRN-content input {
+
+    width: 21%;
+    background-color: #ddd;
+    padding: 5px 5px;
+    border-radius: 10px;
+
+
+}
+
+.GRN-content input#file-upload-button {
+
+    background-color: rgb(185, 80, 80)rgb(161, 19, 19);
+    
+    border-radius: 10px;
+
+
+}
